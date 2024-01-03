@@ -1,4 +1,5 @@
 **Project Title: E-Commerce Customer Segmentation**
+![image](https://github.com/Santhosh2010-ramesh/E-Commerce-Customer-segmentation-using-NLP/assets/68174618/d24e14e9-be09-4eff-812f-2bce0388a985)
 
 **Description:**
 
